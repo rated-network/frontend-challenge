@@ -44,7 +44,7 @@ Your task is to create a Next.js application that displays cryptocurrency exchan
     - Feel free to also copy general styling from Rated's website.
 
 8. **Testing**:
-    - Bonus points for adding tests using Jest or similar
+    - Bonus points for adding tests using Jest or similar.
 
 ### Evaluation Criteria:
 
