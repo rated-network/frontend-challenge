@@ -40,6 +40,7 @@ Your task is to create a Next.js application that displays cryptocurrency exchan
 7. **Styling**:
     - Ensure that the table is neatly styled, ensuring readability.
     - Add responsiveness so that the table is viewable on mobile devices without horizontal scrolling.
+    - Feel free to use the colour palette from https://www.rated.network/
 
 8. **Bonus (Optional)**:
     - Hovering over the trust score should display a tooltip with a brief description of what the score means (you can make this up or fetch additional data if the API provides it).
@@ -54,3 +55,5 @@ Your task is to create a Next.js application that displays cryptocurrency exchan
 ### Submission:
 
 Provide a link to the GitHub repository containing your code. Include any instructions needed to run and test your application locally. Bonus points if you deploy the app to a platform like Vercel and provide the live link.
+
+**Good luck!**
