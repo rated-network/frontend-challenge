@@ -9,7 +9,7 @@ Your task is to create a Next.js application that displays cryptocurrency exchan
 
 1. **Setup**:
     - Create a new project using Next.js.
-    - Use any CSS-in-JS solution or CSS framework of your choice for styling.
+    - Use any CSS-in-JS solution or CSS framework of your choice for styling. Bonus points for styled components.
 
 2. **API Integration**:
     - Integrate with the provided API endpoint: `https://api.coingecko.com/api/v3/exchanges`.
@@ -39,18 +39,18 @@ Your task is to create a Next.js application that displays cryptocurrency exchan
 
 7. **Styling**:
     - Ensure that the table is neatly styled, ensuring readability.
-    - Add responsiveness so that the table is viewable on mobile devices without horizontal scrolling.
+    - Add responsiveness so that the table is viewable on mobile devices.
     - Feel free to use Rated's color palette as described [here](https://docs.rated.network/brand-resources/rated-brand-guidelines#powered-by-rated-badge)
+    - Feel free to also copy general styling from Rated's website.
 
-8. **Bonus (Optional)**:
-    - Hovering over the trust score should display a tooltip with a brief description of what the score means (you can make this up or fetch additional data if the API provides it).
+8. **Testing**:
+    - Bonus points for adding tests using Jest or similar
 
 ### Evaluation Criteria:
 
 1. **Functionality**: Ensure that all requirements are implemented and work as expected.
 2. **Code Quality**: Clean, readable, and maintainable code.
-3. **Next.js Implementation**: Proper use of server-side rendering, pages, and routing.
-4. **UI/UX**: The overall user experience and design of the application, including intuitive interactions.
+3. **Next.js Implementation**: Proper use of server-side rendering and routing.
 
 ### Submission:
 
