@@ -32,7 +32,7 @@ Your task is to create a Next.js application that displays cryptocurrency exchan
 
 5. **Routing**:
     - Use Next.js to set up proper routing for paginated data.
-    - For example, `/page/2` should show the next set of 15 exchanges.
+    - For example, `/page/2` should show the next set of 15 exchanges. You could also use url params, e.g. `?page=2`. Up to you.
 
 6. **Error Handling**:
     - Gracefully handle any errors when fetching data from the API, displaying an appropriate message to the user.
